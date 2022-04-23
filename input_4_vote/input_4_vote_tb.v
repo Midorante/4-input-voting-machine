@@ -1,5 +1,4 @@
 module input_4_vote_tb;
-reg clk;
 reg [3:0] I;    //input
 wire [3:1] O;   //output
 initial begin
